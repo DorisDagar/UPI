@@ -1,0 +1,6 @@
+{
+  "name": "UPI Guardian",
+  "description": "Explain Before You Pay - Real-time AI-powered UPI fraud detection, QR scanner, message risk analyzer, and incident recovery platform.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
